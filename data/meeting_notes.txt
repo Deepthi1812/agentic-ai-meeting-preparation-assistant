@@ -1,0 +1,13 @@
+Client: Acme Corp
+
+Meeting Date: 10 May 2026
+
+Discussion:
+Dashboard implementation progress
+
+Client Requests:
+- Real-time analytics
+- Weekly progress updates
+
+Concerns:
+- Data quality issues

@@ -1,0 +1,12 @@
+Client: Acme Corp
+
+Industry: Manufacturing
+
+Employees: 5000
+
+Current Project:
+Supply Chain Analytics Dashboard
+
+Key Stakeholders:
+John Smith - CTO
+Sarah Lee - Operations Director

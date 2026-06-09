@@ -1,0 +1,7 @@
+Client: Acme Corp
+
+Open Action Items:
+
+1. Send dashboard prototype
+2. Complete API integration
+3. Share updated project timeline
